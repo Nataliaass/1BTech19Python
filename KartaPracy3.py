@@ -33,3 +33,25 @@ for i in range(105,1000,15):
   print(i, end=" ")
 
 #zad3
+p=int(input())
+print("Podaj liczbę:" ,)
+
+
+#zad 5
+n=int(input(" w ile gramy:"))
+
+suma= n* (n+1) // 2
+print(suma)
+a=int(input())
+
+for i in range(n-1) :
+  a= int(input()) 
+  suma= suma - a
+print(suma)
+
+#zadanie napisz pętle sumującą liczby dwucyfrowe parzyste
+
+suma=0
+for i in range(10,100,2):
+      suma= suma + n
+print(suma)  
