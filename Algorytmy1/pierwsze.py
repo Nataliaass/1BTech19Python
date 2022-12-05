@@ -12,3 +12,13 @@
 
 
 # 2. Generowanie liczb pierwszych
+# n= int(input("podaj do ilu mam szukać liczb pierwszych"))
+# for i in range(2,n+2):
+#   flaga= True;
+#   for i in range(2,i):
+#     if i % j == 0:
+#       break
+#    if flaga:
+#         print(i, end="")
+
+nwd
