@@ -17,12 +17,15 @@
 # #len- długość napisu
 
 
-napis="KOT"
-szyfr= ""
-print(napis[0], napis[1],  napis[2])
-print(len(napis))
+# napis="KOT"
+# szyfr= ""
+# print(napis[0], napis[1],  napis[2])
+# print(len(napis))
 
- for i in range(len(napis)):
-     print(napis[i])
-    szyfr= szyfr+ chr(65 +((ord(napis[i]-65)+3) % 26))
-print(szyfr)      
+#  for i in range(len(napis)):
+#      print(napis[i])
+#     szyfr= szyfr+ chr(65 +((ord(napis[i]-65)+3) % 26))
+# print(szyfr)      
+
+
+
